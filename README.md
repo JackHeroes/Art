@@ -1,4 +1,3 @@
-
 # Art
 
 Website of an urban art exhibition
@@ -6,4 +5,3 @@ Website of an urban art exhibition
 ## Demonstration
 
 https://art-xi.vercel.app/
-
